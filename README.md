@@ -13,7 +13,14 @@ Subheadline
     sjdfvsjdjskdfsjkdhfjksdf [learnd](https://www.linkedin.com/learning/instructors/ray-villalobos?u=108288506) sdfsfsdfsdf
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa [^1] dfgdg
 
+| left | Center | Right |
+| --  | :--: | --: |
+| dos  | :----: | ----: |
+| tres | :----: | ----: |
 
+-[X] First
+ -[X] One 
+[]
 
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
